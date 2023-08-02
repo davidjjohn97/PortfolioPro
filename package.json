@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Portfolio of David Johnson",
   "engines": {
-    "node": "20.4.0"
+    "node": "20.4.0",
+    "npm": "^6.0.0" 
   },
   "main": "index.js",
   "scripts": {
