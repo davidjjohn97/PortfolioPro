@@ -2,6 +2,9 @@
   "name": "portfolio-pro",
   "version": "1.0.0",
   "description": "Portfolio of David Johnson",
+  "engines": {
+    "node": "20.4.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
