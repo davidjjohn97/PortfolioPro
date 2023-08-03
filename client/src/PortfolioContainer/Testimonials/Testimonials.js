@@ -104,9 +104,7 @@ export default function Testimonial(props) {
                        work as an intern on a software project. He proved capable at both front-end
                         and backend work in JavaScript and TypeScript, using React as a framework.
                          He coded a comprehensive set of tests for the calculation engine, which analyzes
-                          data related to surface oil and gas wells. David was a pleasure to work with;
-                           friendly, conscientious, and receptive to criticism of his code when it needed
-                            modification. Due to other priorities for the team, there were long stretches 
+                          data related to surface oil and gas wells. Due to other priorities for the team, there were long stretches 
                             when David was the only person working on the project, and he was able to complete
                              his work with minimal supervision during those times.
                       <i className="fa fa-quote-right" />
