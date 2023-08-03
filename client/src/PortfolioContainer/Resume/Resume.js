@@ -51,7 +51,6 @@ const Resume = (props) => {
     { label: "Interests", logoSrc: "interests.svg" },
   ];
 
-  //here we have
   const programmingSkillsDetails = [
 
     { skill: "Node JS", ratingPercentage: 89 },
@@ -118,6 +117,9 @@ const Resume = (props) => {
           <br />
         </div>
     </div>,
+    <div className="experience-description">
+    <br />
+</div>,
 
     /* WORK EXPERIENCE */
     <div className="resume-screen-container" key="work-experience">
