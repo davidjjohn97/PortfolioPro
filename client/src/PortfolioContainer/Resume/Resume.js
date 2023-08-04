@@ -42,6 +42,31 @@ const Resume = (props) => {
     );
   };
 
+    /* Bugfix for project description css */
+    const ProjectHeading = (props) => {
+      return (
+        <div className="resume-heading">
+          <div className="project-main-heading">
+            <div className="heading-bullet"></div>
+            <span>{props.heading ? props.heading : ""}</span>
+            {props.fromDate && props.toDate ? (
+              <div className="heading-date">
+                {props.fromDate + "-" + props.toDate}
+              </div>
+            ) : (
+              <div></div>
+            )}
+          </div>
+          <div className="project-sub-heading">
+            <span>{props.subHeading ? props.subHeading : ""}</span>
+          </div>
+          <div className="project-heading-description">
+            <span>{props.description ? props.description : ""}</span>
+          </div>
+        </div>
+      );
+    };
+
   /* STATIC RESUME DATA FOR THE LABELS*/
   const resumeBullets = [
     { label: "Education", logoSrc: "education.svg" },
@@ -185,7 +210,7 @@ const Resume = (props) => {
     /* PROJECTS */
     <div className="resume-screen-container" key="projects">
       {projectsDetails.map((projectsDetails, index) => (
-        <ResumeHeading
+        <ProjectHeading
           key={index}
           heading={projectsDetails.title}
           subHeading={projectsDetails.subHeading}
