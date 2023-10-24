@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/PortfolioProject/static/css/main.43d1890f.css",
+    "main.js": "/PortfolioProject/static/js/main.662f54e5.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/PortfolioProject/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bg.jpeg": "/PortfolioProject/static/media/bg.76be5eb79565497e7954.jpeg",
+    "static/media/djj_pic.jpg": "/PortfolioProject/static/media/djj_pic.b81a7d99f3c6b6f285d0.jpg",
+    "static/media/Poppins-Thin.ttf": "/PortfolioProject/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/PortfolioProject/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/PortfolioProject/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/PortfolioProject/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/PortfolioProject/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/PortfolioProject/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/PortfolioProject/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/tristu.png": "/PortfolioProject/static/media/tristu.7e61228a03ca1c1010a2.png",
+    "static/media/me.jpg": "/PortfolioProject/static/media/me.e69658735a386bea2334.jpg",
+    "static/media/chris.png": "/PortfolioProject/static/media/chris.df189c75066bf9a0a818.png",
+    "static/media/load2.gif": "/PortfolioProject/static/media/load2.4e1ee45feacb9f8f1d34.gif",
+    "static/media/bg-1.jpg": "/PortfolioProject/static/media/bg-1.1c706e740cab946d31e5.jpg",
+    "static/media/paul.png": "/PortfolioProject/static/media/paul.6190f5381d0aab64112b.png",
+    "static/media/mailz.jpeg": "/PortfolioProject/static/media/mailz.8c596d065622c40c7683.jpeg",
+    "index.html": "/PortfolioProject/index.html",
+    "static/media/programming-skills.svg": "/PortfolioProject/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/PortfolioProject/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/PortfolioProject/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/PortfolioProject/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/PortfolioProject/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.43d1890f.css.map": "/PortfolioProject/static/css/main.43d1890f.css.map",
+    "main.662f54e5.js.map": "/PortfolioProject/static/js/main.662f54e5.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/PortfolioProject/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d1890f.css",
+    "static/js/main.662f54e5.js"
+  ]
+}
